@@ -3,9 +3,9 @@ import Navbar from './Components/Navbar/Navbar';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import  Shop  from './Pages/Shop.jsx';
 import ShopCategory  from './Pages/ShopCategory';
-import { Product } from './Pages/Product';
+import  Product  from './Pages/Product';
 import { Cart } from './Pages/Cart';
-import { LoginSignup } from './Pages/LoginSignup';
+import  LoginSignup  from './Pages/LoginSignup';
 import Footer from './Components/Footer/Footer.jsx';
 import men_banner from './Components/Assets/banner_mens.png'
 import women_banner from './Components/Assets/banner_women.png'
